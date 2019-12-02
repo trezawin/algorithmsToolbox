@@ -160,5 +160,6 @@ public class PrimitiveCalculator {
 		for (Integer x : sequence) {
 			System.out.print(x + " ");
 		}
+		scanner.close();
 	}
 }
